@@ -1,15 +1,15 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```1.Hafta - 1.Ödev```
 
 # Homework 
-```Ödev```
+```Ödev-1.js```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Arrayler ve objectler ile ilgili 13 adet alıştırma sorusu ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Ceyda Doğan```
